@@ -48,3 +48,6 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Separate repo directory (not part of this public repo)
+instagram-email-notifier/
